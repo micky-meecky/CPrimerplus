@@ -1,0 +1,4 @@
+﻿  C_primer_plus2.12编程练习题.c
+E:\projects\C\C_primer_plus2.12编程练习题\C_primer_plus2.12编程练习题\C_primer_plus2.12编程练习题.c(151,10): warning C4098: “one_three”:“void”函数返回值
+E:\projects\C\C_primer_plus2.12编程练习题\C_primer_plus2.12编程练习题\C_primer_plus2.12编程练习题.c(157,10): warning C4098: “two”:“void”函数返回值
+  C_primer_plus2.12编程练习题.vcxproj -> E:\projects\C\C_primer_plus2.12编程练习题\C_primer_plus2.12编程练习题\Debug\C_primer_plus2.12编程练习题.exe

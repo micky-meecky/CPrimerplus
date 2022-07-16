@@ -1,0 +1,5 @@
+﻿  C_primer_plus3.3.c
+E:\projects\C\C_primer_plus3.3\C_primer_plus3.3\C_primer_plus3.3.c(44,9): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 2 拥有了类型“__int64”
+E:\projects\C\C_primer_plus3.3\C_primer_plus3.3\C_primer_plus3.3.c(44,9): message : 请考虑在格式字符串中使用“%lld”
+E:\projects\C\C_primer_plus3.3\C_primer_plus3.3\C_primer_plus3.3.c(44,9): message : 请考虑在格式字符串中使用“%I64d”
+  C_primer_plus3.3.vcxproj -> E:\projects\C\C_primer_plus3.3\C_primer_plus3.3\Debug\C_primer_plus3.3.exe

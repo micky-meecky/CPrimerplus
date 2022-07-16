@@ -1,0 +1,2 @@
+E:\projects\C\C_primer_plus3.1\C_primer_plus3.1\Debug\C_primer_plus3.1.exe
+E:\projects\C\C_primer_plus3.1\C_primer_plus3.1\Debug\C_primer_plus3.1.pdb

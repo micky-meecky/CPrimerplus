@@ -1,0 +1,2 @@
+Z:\projects\C\C_Primer_plus11_char_s\C_Primer_plus11_char_s\Debug\C_Primer_plus11_char_s.exe
+Z:\projects\C\C_Primer_plus11_char_s\C_Primer_plus11_char_s\Debug\C_Primer_plus11_char_s.pdb

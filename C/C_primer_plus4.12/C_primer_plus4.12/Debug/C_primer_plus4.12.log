@@ -1,0 +1,6 @@
+﻿  C_primer_plus4.12.c
+E:\projects\C\C_primer_plus4.12\C_primer_plus4.12\C_primer_plus4.12.c(13,9): warning C4477: “printf”: 格式字符串“%.1e”需要类型“double”的参数，但可变参数 3 拥有了类型“long”
+E:\projects\C\C_primer_plus4.12\C_primer_plus4.12\C_primer_plus4.12.c(13,9): warning C4477: “printf”: 格式字符串“%.1e”需要类型“double”的参数，但可变参数 4 拥有了类型“long”
+E:\projects\C\C_primer_plus4.12\C_primer_plus4.12\C_primer_plus4.12.c(15,9): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“double”
+E:\projects\C\C_primer_plus4.12\C_primer_plus4.12\C_primer_plus4.12.c(15,9): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 2 拥有了类型“double”
+  C_primer_plus4.12.vcxproj -> E:\projects\C\C_primer_plus4.12\C_primer_plus4.12\Debug\C_primer_plus4.12.exe

@@ -1,0 +1,9 @@
+﻿  C_Primer_plus7 selection.c
+Z:\projects\C\C_Primer_plus7 selection\C_Primer_plus7 selection\C_Primer_plus7 selection.c(85,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+Z:\projects\C\C_Primer_plus7 selection\C_Primer_plus7 selection\C_Primer_plus7 selection.c(151,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus7 selection\C_Primer_plus7 selection\C_Primer_plus7 selection.c(153,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus7 selection\C_Primer_plus7 selection\C_Primer_plus7 selection.c(155,19): warning C4305: “=”: 从“double”到“float”截断
+Z:\projects\C\C_Primer_plus7 selection\C_Primer_plus7 selection\C_Primer_plus7 selection.c(157,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus7 selection\C_Primer_plus7 selection\C_Primer_plus7 selection.c(159,19): warning C4305: “=”: 从“double”到“float”截断
+Z:\projects\C\C_Primer_plus7 selection\C_Primer_plus7 selection\C_Primer_plus7 selection.c(161,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  C_Primer_plus7 selection.vcxproj -> Z:\projects\C\C_Primer_plus7 selection\C_Primer_plus7 selection\Debug\C_Primer_plus7 selection.exe

@@ -1,0 +1,16 @@
+http://www.deeplearningbook.org/ says:
+
+What is the best way to print the HTML format?
+
+Printing seems to work best printing directly from the browser, using Chrome. Other browsers do not work as well.
+
+This repository contains
+
+The pdf version of the book which is available in html at http://www.deeplearningbook.org/
+The book is available in chapter wise PDFs as well as complete book in PDF.
+Some useful links for this learning:
+
+Exercises
+Lecture Slides
+External links
+If you like this book then buy a copy of it and keep it with you forever. This will help you and also support the authors and the people involved in the effort of bringing this beautiful piece of work to public. Buy it from amazon, It is not expensive ($72). Amazon

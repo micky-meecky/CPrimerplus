@@ -1,0 +1,15 @@
+﻿  C_Primer_plus11_char_s.c
+Z:\projects\C\C_Primer_plus11_char_s\C_Primer_plus11_char_s\C_Primer_plus11_char_s.c(98,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“const int *”
+Z:\projects\C\C_Primer_plus11_char_s\C_Primer_plus11_char_s\C_Primer_plus11_char_s.c(98,9): warning C4313: “printf”: 格式字符串中的“%d”与“const int *”类型的参数 1 冲突
+Z:\projects\C\C_Primer_plus11_char_s\C_Primer_plus11_char_s\C_Primer_plus11_char_s.c(92,1): warning C4047: “初始化”:“const int *”与“int”的间接级别不同
+Z:\projects\C\C_Primer_plus11_char_s\C_Primer_plus11_char_s\C_Primer_plus11_char_s.c(141,10): warning C4477: “printf”: 格式字符串“%-8d”需要类型“int”的参数，但可变参数 3 拥有了类型“__int64”
+Z:\projects\C\C_Primer_plus11_char_s\C_Primer_plus11_char_s\C_Primer_plus11_char_s.c(141,10): message : 请考虑在格式字符串中使用“%lld”
+Z:\projects\C\C_Primer_plus11_char_s\C_Primer_plus11_char_s\C_Primer_plus11_char_s.c(141,10): message : 请考虑在格式字符串中使用“%Id”
+Z:\projects\C\C_Primer_plus11_char_s\C_Primer_plus11_char_s\C_Primer_plus11_char_s.c(141,10): message : 请考虑在格式字符串中使用“%I64d”
+Z:\projects\C\C_Primer_plus11_char_s\C_Primer_plus11_char_s\C_Primer_plus11_char_s.c(141,10): warning C4477: “printf”: 格式字符串“%-30p”需要类型“void *”的参数，但可变参数 4 拥有了类型“__int64”
+Z:\projects\C\C_Primer_plus11_char_s\C_Primer_plus11_char_s\C_Primer_plus11_char_s.c(151,10): warning C4477: “printf”: 格式字符串“%-8d”需要类型“int”的参数，但可变参数 3 拥有了类型“__int64”
+Z:\projects\C\C_Primer_plus11_char_s\C_Primer_plus11_char_s\C_Primer_plus11_char_s.c(151,10): message : 请考虑在格式字符串中使用“%lld”
+Z:\projects\C\C_Primer_plus11_char_s\C_Primer_plus11_char_s\C_Primer_plus11_char_s.c(151,10): message : 请考虑在格式字符串中使用“%Id”
+Z:\projects\C\C_Primer_plus11_char_s\C_Primer_plus11_char_s\C_Primer_plus11_char_s.c(151,10): message : 请考虑在格式字符串中使用“%I64d”
+Z:\projects\C\C_Primer_plus11_char_s\C_Primer_plus11_char_s\C_Primer_plus11_char_s.c(151,10): warning C4477: “printf”: 格式字符串“%-30p”需要类型“void *”的参数，但可变参数 4 拥有了类型“__int64”
+  C_Primer_plus11_char_s.vcxproj -> Z:\projects\C\C_Primer_plus11_char_s\C_Primer_plus11_char_s\x64\Debug\C_Primer_plus11_char_s.exe

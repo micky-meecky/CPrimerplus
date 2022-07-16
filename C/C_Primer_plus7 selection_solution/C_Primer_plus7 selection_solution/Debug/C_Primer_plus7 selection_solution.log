@@ -1,0 +1,17 @@
+﻿  C_Primer_plus7 selection_solution.c
+Z:\projects\C\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution.c(241,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution.c(246,50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution.c(256,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution.c(258,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution.c(260,59): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution.c(291,15): warning C4305: “=”: 从“double”到“float”截断
+Z:\projects\C\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution.c(297,16): warning C4305: “=”: 从“double”到“float”截断
+Z:\projects\C\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution.c(322,52): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution.c(332,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution.c(334,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution.c(336,59): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution.c(433,1): warning C4305: “初始化”: 从“double”到“float”截断
+Z:\projects\C\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution.c(595,20): warning C4305: “*=”: 从“double”到“float”截断
+Z:\projects\C\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution.c(622,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution.c(531,1): warning C4305: “初始化”: 从“double”到“float”截断
+  C_Primer_plus7 selection_solution.vcxproj -> Z:\projects\C\C_Primer_plus7 selection_solution\C_Primer_plus7 selection_solution\Debug\C_Primer_plus7 selection_solution.exe

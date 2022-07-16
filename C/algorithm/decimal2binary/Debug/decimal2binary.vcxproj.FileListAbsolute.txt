@@ -1,0 +1,2 @@
+Z:\projects\C\algorithm\decimal2binary\Debug\decimal2binary.exe
+Z:\projects\C\algorithm\decimal2binary\Debug\decimal2binary.pdb

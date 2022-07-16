@@ -1,0 +1,4 @@
+﻿  C_Primer_plus11_char_s.c
+Z:\projects\C\C_Primer_plus11_char_s\C_Primer_plus11_char_s\C_Primer_plus11_char_s.c(98,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“const int *”
+Z:\projects\C\C_Primer_plus11_char_s\C_Primer_plus11_char_s\C_Primer_plus11_char_s.c(92,1): warning C4047: “初始化”:“const int *”与“int”的间接级别不同
+  C_Primer_plus11_char_s.vcxproj -> Z:\projects\C\C_Primer_plus11_char_s\C_Primer_plus11_char_s\Debug\C_Primer_plus11_char_s.exe

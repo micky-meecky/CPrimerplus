@@ -1,0 +1,4 @@
+﻿  COPY_from_S1E2_of_xiaojiayu.c
+E:\projects\C\test_first_1\Project1\COPY_from_S1E2_of_xiaojiayu.c(153,59): warning C4244: “=”: 从“intptr_t”转换到“long”，可能丢失数据
+E:\projects\C\test_first_1\Project1\COPY_from_S1E2_of_xiaojiayu.c(172,57): warning C4244: “=”: 从“intptr_t”转换到“long”，可能丢失数据
+  copy_from_S1E2_of_ xiaojiayu.vcxproj -> E:\projects\C\test_first_1\x64\Debug\copy_from_S1E2_of_ xiaojiayu.exe

@@ -1,0 +1,4 @@
+﻿  C_Primer_plus8 IOfunc.c
+Z:\projects\C\C_Primer_plus8 IOfunc\C_Primer_plus8 IOfunc\C_Primer_plus8 IOfunc.c(122,6): warning C4101: “row”: 未引用的局部变量
+Z:\projects\C\C_Primer_plus8 IOfunc\C_Primer_plus8 IOfunc\C_Primer_plus8 IOfunc.c(192,10): warning C4098: “io8_7”:“void”函数返回值
+  C_Primer_plus8 IOfunc.vcxproj -> Z:\projects\C\C_Primer_plus8 IOfunc\C_Primer_plus8 IOfunc\Debug\C_Primer_plus8 IOfunc.exe

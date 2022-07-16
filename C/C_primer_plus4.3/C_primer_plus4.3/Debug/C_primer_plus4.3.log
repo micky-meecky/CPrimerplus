@@ -1,0 +1,4 @@
+﻿  C_primer_plus4.3.c
+E:\projects\C\C_primer_plus4.3\C_primer_plus4.3\C_primer_plus4.3.c(15,87): warning C4474: printf: 格式字符串中传递的参数太多
+E:\projects\C\C_primer_plus4.3\C_primer_plus4.3\C_primer_plus4.3.c(15,87): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  C_primer_plus4.3.vcxproj -> E:\projects\C\C_primer_plus4.3\C_primer_plus4.3\Debug\C_primer_plus4.3.exe

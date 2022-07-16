@@ -1,0 +1,12 @@
+﻿  C_Primer_plus8_IOfunc_Q_A.c
+Z:\projects\C\C_Primer_plus8_IOfunc_Q_A\C_Primer_plus8_IOfunc_Q_A\C_Primer_plus8_IOfunc_Q_A.c(121,10): warning C4098: “_82”:“void”函数返回值
+Z:\projects\C\C_Primer_plus8_IOfunc_Q_A\C_Primer_plus8_IOfunc_Q_A\C_Primer_plus8_IOfunc_Q_A.c(179,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus8_IOfunc_Q_A\C_Primer_plus8_IOfunc_Q_A\C_Primer_plus8_IOfunc_Q_A.c(291,15): warning C4305: “=”: 从“double”到“float”截断
+Z:\projects\C\C_Primer_plus8_IOfunc_Q_A\C_Primer_plus8_IOfunc_Q_A\C_Primer_plus8_IOfunc_Q_A.c(297,16): warning C4305: “=”: 从“double”到“float”截断
+Z:\projects\C\C_Primer_plus8_IOfunc_Q_A\C_Primer_plus8_IOfunc_Q_A\C_Primer_plus8_IOfunc_Q_A.c(319,52): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus8_IOfunc_Q_A\C_Primer_plus8_IOfunc_Q_A\C_Primer_plus8_IOfunc_Q_A.c(329,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus8_IOfunc_Q_A\C_Primer_plus8_IOfunc_Q_A\C_Primer_plus8_IOfunc_Q_A.c(331,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus8_IOfunc_Q_A\C_Primer_plus8_IOfunc_Q_A\C_Primer_plus8_IOfunc_Q_A.c(333,59): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus8_IOfunc_Q_A\C_Primer_plus8_IOfunc_Q_A\C_Primer_plus8_IOfunc_Q_A.c(338,7): warning C4102: “lable1”: 未引用的标签
+Z:\projects\C\C_Primer_plus8_IOfunc_Q_A\C_Primer_plus8_IOfunc_Q_A\C_Primer_plus8_IOfunc_Q_A.c(357,8): warning C4101: “otcm”: 未引用的局部变量
+  C_Primer_plus8_IOfunc_Q_A.vcxproj -> Z:\projects\C\C_Primer_plus8_IOfunc_Q_A\C_Primer_plus8_IOfunc_Q_A\Debug\C_Primer_plus8_IOfunc_Q_A.exe

@@ -1,0 +1,2 @@
+Z:\projects\C\C_Primer_plus9_function_Q_A\C_Primer_plus9_function_Q_A\Debug\C_Primer_plus9_function_Q_A.exe
+Z:\projects\C\C_Primer_plus9_function_Q_A\C_Primer_plus9_function_Q_A\Debug\C_Primer_plus9_function_Q_A.pdb

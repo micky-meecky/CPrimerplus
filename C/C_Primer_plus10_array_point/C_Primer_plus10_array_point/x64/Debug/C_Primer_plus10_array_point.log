@@ -1,0 +1,12 @@
+﻿  C_Primer_plus10_array_point.c
+Z:\projects\C\C_Primer_plus10_array_point\C_Primer_plus10_array_point\C_Primer_plus10_array_point.c(109,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+Z:\projects\C\C_Primer_plus10_array_point\C_Primer_plus10_array_point\C_Primer_plus10_array_point.c(109,9): message : 请考虑在格式字符串中使用“%zd”
+Z:\projects\C\C_Primer_plus10_array_point\C_Primer_plus10_array_point\C_Primer_plus10_array_point.c(110,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+Z:\projects\C\C_Primer_plus10_array_point\C_Primer_plus10_array_point\C_Primer_plus10_array_point.c(110,9): message : 请考虑在格式字符串中使用“%zd”
+Z:\projects\C\C_Primer_plus10_array_point\C_Primer_plus10_array_point\C_Primer_plus10_array_point.c(124,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+Z:\projects\C\C_Primer_plus10_array_point\C_Primer_plus10_array_point\C_Primer_plus10_array_point.c(124,9): message : 请考虑在格式字符串中使用“%zd”
+Z:\projects\C\C_Primer_plus10_array_point\C_Primer_plus10_array_point\C_Primer_plus10_array_point.c(125,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+Z:\projects\C\C_Primer_plus10_array_point\C_Primer_plus10_array_point\C_Primer_plus10_array_point.c(125,9): message : 请考虑在格式字符串中使用“%zd”
+Z:\projects\C\C_Primer_plus10_array_point\C_Primer_plus10_array_point\C_Primer_plus10_array_point.c(176,50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus10_array_point\C_Primer_plus10_array_point\C_Primer_plus10_array_point.c(207,35): warning C4047: “==”:“float [5][12]”与“float *”的间接级别不同
+  C_Primer_plus10_array_point.vcxproj -> Z:\projects\C\C_Primer_plus10_array_point\C_Primer_plus10_array_point\x64\Debug\C_Primer_plus10_array_point.exe

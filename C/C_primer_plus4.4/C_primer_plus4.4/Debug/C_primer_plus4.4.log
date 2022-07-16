@@ -1,0 +1,4 @@
+﻿  C_primer_plus4.4.c
+E:\projects\C\C_primer_plus4.4\C_primer_plus4.4\C_primer_plus4.4.c(16,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\projects\C\C_primer_plus4.4\C_primer_plus4.4\C_primer_plus4.4.c(17,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  C_primer_plus4.4.vcxproj -> E:\projects\C\C_primer_plus4.4\C_primer_plus4.4\Debug\C_primer_plus4.4.exe

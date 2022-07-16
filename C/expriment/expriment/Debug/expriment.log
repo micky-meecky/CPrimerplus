@@ -1,0 +1,4 @@
+﻿  expriment.c
+Z:\projects\C\expriment\expriment\expriment.c(5,11): warning C4101: “b”: 未引用的局部变量
+Z:\projects\C\expriment\expriment\expriment.c(6,6): warning C4101: “t”: 未引用的局部变量
+  expriment.vcxproj -> Z:\projects\C\expriment\expriment\Debug\expriment.exe

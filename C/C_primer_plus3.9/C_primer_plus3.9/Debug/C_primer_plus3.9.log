@@ -1,0 +1,9 @@
+﻿  C_primer_plus3.9.c
+E:\projects\C\C_primer_plus3.9\C_primer_plus3.9\C_primer_plus3.9.c(9,20): warning C4474: printf: 格式字符串中传递的参数太多
+E:\projects\C\C_primer_plus3.9\C_primer_plus3.9\C_primer_plus3.9.c(9,20): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+E:\projects\C\C_primer_plus3.9\C_primer_plus3.9\C_primer_plus3.9.c(10,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+E:\projects\C\C_primer_plus3.9\C_primer_plus3.9\C_primer_plus3.9.c(10,9): message : 占位符和其参数预计 3 可变参数，但提供的却是 1 参数
+E:\projects\C\C_primer_plus3.9\C_primer_plus3.9\C_primer_plus3.9.c(10,9): message : 缺失的可变参数 2 为格式字符串“%d”所需
+E:\projects\C\C_primer_plus3.9\C_primer_plus3.9\C_primer_plus3.9.c(11,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+E:\projects\C\C_primer_plus3.9\C_primer_plus3.9\C_primer_plus3.9.c(11,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“double”
+  C_primer_plus3.9.vcxproj -> E:\projects\C\C_primer_plus3.9\C_primer_plus3.9\Debug\C_primer_plus3.9.exe

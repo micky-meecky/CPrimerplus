@@ -1,0 +1,2 @@
+Z:\projects\C\C_Primer_plus6.8\C_Primer_plus6.8\Debug\C_Primer_plus6.8.exe
+Z:\projects\C\C_Primer_plus6.8\C_Primer_plus6.8\Debug\C_Primer_plus6.8.pdb

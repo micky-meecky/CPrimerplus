@@ -1,0 +1,14 @@
+﻿  C_Primer_plus9_function.c
+Z:\projects\C\C_Primer_plus9_function\C_Primer_plus9_function\C_Primer_plus9_function.c(75,6): warning C4101: “spaces”: 未引用的局部变量
+Z:\projects\C\C_Primer_plus9_function\C_Primer_plus9_function\C_Primer_plus9_function.c(106,21): warning C4013: “get2n”未定义；假设外部返回 int
+Z:\projects\C\C_Primer_plus9_function\C_Primer_plus9_function\C_Primer_plus9_function.c(189,24): warning C4013: “getnum97”未定义；假设外部返回 int
+Z:\projects\C\C_Primer_plus9_function\C_Primer_plus9_function\C_Primer_plus9_function.c(200,11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+Z:\projects\C\C_Primer_plus9_function\C_Primer_plus9_function\C_Primer_plus9_function.c(200,11): message : 请考虑在格式字符串中使用“%lld”
+Z:\projects\C\C_Primer_plus9_function\C_Primer_plus9_function\C_Primer_plus9_function.c(200,11): message : 请考虑在格式字符串中使用“%I64d”
+Z:\projects\C\C_Primer_plus9_function\C_Primer_plus9_function\C_Primer_plus9_function.c(295,6): warning C4101: “ch”: 未引用的局部变量
+Z:\projects\C\C_Primer_plus9_function\C_Primer_plus9_function\C_Primer_plus9_function.c(161): warning C4715: “get2n”: 不是所有的控件路径都返回值
+Z:\projects\C\C_Primer_plus9_function\C_Primer_plus9_function\C_Primer_plus9_function.c(143): warning C4715: “get1n”: 不是所有的控件路径都返回值
+Z:\projects\C\C_Primer_plus9_function\C_Primer_plus9_function\C_Primer_plus9_function.c(247): warning C4715: “getnum97”: 不是所有的控件路径都返回值
+Z:\projects\C\C_Primer_plus9_function\C_Primer_plus9_function\C_Primer_plus9_function.c(212): warning C4716: “_97”: 必须返回一个值
+Z:\projects\C\C_Primer_plus9_function\C_Primer_plus9_function\C_Primer_plus9_function.c(277): warning C4716: “_98”: 必须返回一个值
+  C_Primer_plus9_function.vcxproj -> Z:\projects\C\C_Primer_plus9_function\C_Primer_plus9_function\Debug\C_Primer_plus9_function.exe

@@ -1,0 +1,4 @@
+﻿  C_Primer_plus10_array_point.c
+Z:\projects\C\C_Primer_plus10_array_point\C_Primer_plus10_array_point\C_Primer_plus10_array_point.c(159,50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus10_array_point\C_Primer_plus10_array_point\C_Primer_plus10_array_point.c(190,35): warning C4047: “==”:“float [5][12]”与“float *”的间接级别不同
+  C_Primer_plus10_array_point.vcxproj -> Z:\projects\C\C_Primer_plus10_array_point\C_Primer_plus10_array_point\Debug\C_Primer_plus10_array_point.exe

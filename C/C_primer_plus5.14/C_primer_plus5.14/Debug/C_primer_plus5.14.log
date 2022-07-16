@@ -1,0 +1,7 @@
+﻿  C_primer_plus5.14.c
+E:\projects\C\C_primer_plus5.14\C_primer_plus5.14\C_primer_plus5.14.c(11,19): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\projects\C\C_primer_plus5.14\C_primer_plus5.14\C_primer_plus5.14.c(14,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\projects\C\C_primer_plus5.14\C_primer_plus5.14\C_primer_plus5.14.c(15,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\projects\C\C_primer_plus5.14\C_primer_plus5.14\C_primer_plus5.14.c(17,11): warning C4305: “=”: 从“int”到“char”截断
+E:\projects\C\C_primer_plus5.14\C_primer_plus5.14\C_primer_plus5.14.c(19,12): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+  C_primer_plus5.14.vcxproj -> E:\projects\C\C_primer_plus5.14\C_primer_plus5.14\Debug\C_primer_plus5.14.exe

@@ -1,0 +1,2 @@
+Z:\projects\C\expriment\Project1\Debug\Project1.exe
+Z:\projects\C\expriment\Project1\Debug\Project1.pdb

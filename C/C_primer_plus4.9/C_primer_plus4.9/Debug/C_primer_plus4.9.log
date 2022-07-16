@@ -1,0 +1,5 @@
+﻿  C_primer_plus4.9.c
+E:\projects\C\C_primer_plus4.9\C_primer_plus4.9\C_primer_plus4.9.c(10,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+E:\projects\C\C_primer_plus4.9\C_primer_plus4.9\C_primer_plus4.9.c(10,9): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+E:\projects\C\C_primer_plus4.9\C_primer_plus4.9\C_primer_plus4.9.c(10,9): message : 缺失的可变参数 1 为格式字符串“%#d”所需
+  C_primer_plus4.9.vcxproj -> E:\projects\C\C_primer_plus4.9\C_primer_plus4.9\Debug\C_primer_plus4.9.exe

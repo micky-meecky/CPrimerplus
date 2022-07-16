@@ -1,0 +1,2 @@
+E:\projects\C\helloworld\第一个HelloWorld程序\Debug\第一个HelloWorld程序.exe
+E:\projects\C\helloworld\第一个HelloWorld程序\Debug\第一个HelloWorld程序.pdb

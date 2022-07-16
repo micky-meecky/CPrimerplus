@@ -1,0 +1,4 @@
+﻿  C_primer_plus3.8.c
+E:\projects\C\C_primer_plus3.8\C_primer_plus3.8\C_primer_plus3.8.c(17,9): warning C4129: “%”: 不可识别的字符转义序列
+E:\projects\C\C_primer_plus3.8\C_primer_plus3.8\C_primer_plus3.8.c(16,1): warning C4305: “初始化”: 从“double”到“float”截断
+  C_primer_plus3.8.vcxproj -> E:\projects\C\C_primer_plus3.8\C_primer_plus3.8\Debug\C_primer_plus3.8.exe

@@ -1,0 +1,94 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#include <math.h>
+#include <stdlib.h>
+#include <ctype.h>		//添加字符测试的函数库
+#include <stdbool.h>	//添加布尔变量的函数库
+
+void _81(void);
+void _82(void);
+
+
+//C Primer plus第八章的编程训练
+int main(void)
+{
+	//_81();
+	_82();
+
+	return 0;
+}
+//8.1设计一个程序，统计在读到文件结尾字符之前的字符数
+void _81(void)
+{
+	char ch;
+	int count = 0;
+
+	while ((ch = getchar()) != EOF)
+	{
+		count++;
+	}
+	printf("\nthere are %d characters. \n", count);
+}
+
+/*
+8.2 在遇到EOF之前，把输入作为字符流读取。程序要打印每个输入的字符及其相应的ASCII十进制值。注意，在ASCII序列中，空格字符前面的字符都是非打印字符，要特殊处理这些字符。
+如果非打印字符是换行符或制表符，则分别打印\n或\t。否则，使用控制字符表示法。例如，ASCII的1是Ctrl + A，可显示为 ^ A。注意，A的ASCII值是Ctrl + A的值加上64。其他非打印
+字符也有类似的关系。除每次遇到换行符打印新的一行之外，每行打印10对值。
+*/
+void _82(void)
+{
+	int ch;
+	int count = 0;
+	FILE* fp;
+	char fname[50];
+
+	printf("Please enter the file name :\n");
+	scanf("%s", fname);
+	fp = fopen(fname, "r");
+	if (fp == NULL)
+	{
+		printf("Failed to open the file.\n");
+		exit(1);
+	}
+
+	while ((ch = getc(fp)) != EOF)
+	{
+
+		if (ch < ' ')
+		{
+			if (ch == 10)
+			{
+				putchar('\\');
+				putchar('n');
+				printf("\t");
+				count++;
+			}
+			else if (ch == 9)
+			{
+				putchar('\\');
+				putchar('t');
+				printf("\t");
+				count++;
+			}
+			else
+			{
+				count++;
+				putchar('^');
+				putchar(ch + 64);
+				printf("\t");
+			}
+		}
+		else
+		{
+			putchar(ch);
+			printf("\t");
+			count++;
+		}
+		if (count == 10)
+		{
+			printf("\n");
+			count = 0;
+		}
+	}
+
+}

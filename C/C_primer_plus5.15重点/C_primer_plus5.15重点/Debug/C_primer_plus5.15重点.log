@@ -1,0 +1,3 @@
+﻿  C_primer_plus5.15重点.c
+E:\projects\C\C_primer_plus5.15重点\C_primer_plus5.15重点\C_primer_plus5.15重点.c(27,9): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+  C_primer_plus5.15重点.vcxproj -> E:\projects\C\C_primer_plus5.15重点\C_primer_plus5.15重点\Debug\C_primer_plus5.15重点.exe

@@ -1,0 +1,2 @@
+Z:\projects\C\C_Primer_plus10_array_point\C_Primer_plus10_array_point\Debug\C_Primer_plus10_array_point.exe
+Z:\projects\C\C_Primer_plus10_array_point\C_Primer_plus10_array_point\Debug\C_Primer_plus10_array_point.pdb

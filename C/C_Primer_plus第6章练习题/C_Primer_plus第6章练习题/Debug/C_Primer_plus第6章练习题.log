@@ -1,0 +1,21 @@
+﻿  C_Primer_plus第6章练习题.c
+Z:\projects\C\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题.c(72,10): warning C4098: “Frist_ques”:“void”函数返回值
+Z:\projects\C\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题.c(86,10): warning C4098: “Second_ques”:“void”函数返回值
+Z:\projects\C\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题.c(103,10): warning C4098: “Third_ques”:“void”函数返回值
+Z:\projects\C\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题.c(122,10): warning C4098: “Forth_ques”:“void”函数返回值
+Z:\projects\C\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题.c(166,10): warning C4098: “Fifth_ques”:“void”函数返回值
+Z:\projects\C\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题.c(185,10): warning C4098: “Sixth_ques”:“void”函数返回值
+Z:\projects\C\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题.c(200,10): warning C4098: “Seventh_ques”:“void”函数返回值
+Z:\projects\C\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题.c(216,10): warning C4098: “Eighth_ques”:“void”函数返回值
+Z:\projects\C\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题.c(240,10): warning C4098: “tenth_ques”:“void”函数返回值
+Z:\projects\C\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题.c(255,10): warning C4098: “eleventh_ques”:“void”函数返回值
+Z:\projects\C\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题.c(288,10): warning C4098: “twelveth_ques”:“void”函数返回值
+Z:\projects\C\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题.c(311,10): warning C4098: “thirteenth_ques”:“void”函数返回值
+Z:\projects\C\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题.c(363,10): warning C4098: “fourteenth_ques”:“void”函数返回值
+Z:\projects\C\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题.c(393,10): warning C4098: “fifteenth_ques”:“void”函数返回值
+Z:\projects\C\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题.c(414,10): warning C4098: “Sixteenth_ques”:“void”函数返回值
+Z:\projects\C\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题.c(400,6): warning C4101: “i”: 未引用的局部变量
+Z:\projects\C\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题.c(423,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题.c(432,10): warning C4098: “Seventeenth_ques”:“void”函数返回值
+Z:\projects\C\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题.c(448,10): warning C4098: “eighteenth_ques”:“void”函数返回值
+  C_Primer_plus第6章练习题.vcxproj -> Z:\projects\C\C_Primer_plus第6章练习题\C_Primer_plus第6章练习题\Debug\C_Primer_plus第6章练习题.exe

@@ -1,0 +1,4 @@
+﻿  C_primer_plus3.7.c
+E:\projects\C\C_primer_plus3.7\C_primer_plus3.7\C_primer_plus3.7.c(18,18): warning C4305: “=”: 从“double”到“float”截断
+E:\projects\C\C_primer_plus3.7\C_primer_plus3.7\C_primer_plus3.7.c(19,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  C_primer_plus3.7.vcxproj -> E:\projects\C\C_primer_plus3.7\C_primer_plus3.7\Debug\C_primer_plus3.7.exe

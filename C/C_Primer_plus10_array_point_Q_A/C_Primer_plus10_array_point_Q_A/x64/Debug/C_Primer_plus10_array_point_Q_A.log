@@ -1,0 +1,18 @@
+﻿  C_Primer_plus10_array_point_Q_A.c
+Z:\projects\C\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A.c(47,50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A.c(60,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Z:\projects\C\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A.c(37,9): warning C4101: “m”: 未引用的局部变量
+Z:\projects\C\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A.c(38,8): warning C4101: “msubtot”: 未引用的局部变量
+Z:\projects\C\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A.c(73,28): warning C4028: 形参 1 与声明不同
+Z:\projects\C\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A.c(322,9): warning C4101: “t3”: 未引用的局部变量
+Z:\projects\C\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A.c(424,9): warning C4101: “c”: 未引用的局部变量
+Z:\projects\C\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A.c(424,6): warning C4101: “r”: 未引用的局部变量
+Z:\projects\C\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A.c(527,31): warning C4028: 形参 1 与声明不同
+Z:\projects\C\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A.c(575,58): warning C4047: “==”:“float [5][12]”与“float *”的间接级别不同
+Z:\projects\C\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A.c(556,8): warning C4101: “subtot”: 未引用的局部变量
+Z:\projects\C\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A.c(555,9): warning C4101: “m”: 未引用的局部变量
+Z:\projects\C\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A.c(555,6): warning C4101: “y”: 未引用的局部变量
+Z:\projects\C\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A.c(554,9): warning C4101: “j”: 未引用的局部变量
+Z:\projects\C\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A.c(554,6): warning C4101: “i”: 未引用的局部变量
+Z:\projects\C\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A.c(584,47): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  C_Primer_plus10_array_point_Q_A.vcxproj -> Z:\projects\C\C_Primer_plus10_array_point_Q_A\C_Primer_plus10_array_point_Q_A\x64\Debug\C_Primer_plus10_array_point_Q_A.exe

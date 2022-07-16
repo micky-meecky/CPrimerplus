@@ -1,0 +1,2 @@
+E:\projects\C\a+b\计算a+b\Debug\a+b.exe
+E:\projects\C\a+b\计算a+b\Debug\a+b.pdb
